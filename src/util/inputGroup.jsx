@@ -1,5 +1,4 @@
 import React from "react";
-import UserInput from "./../componnent/userInput";
 
 const InputGroup = ({ label, onValueChange, userInput, identifier }) => {
   return (
